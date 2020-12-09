@@ -107,7 +107,6 @@ nav ul ul li a:hover:not(.active) {
     border: 3px groove;
 }
 
-
 h2{
     text-align: center;
     color: brown;
@@ -116,7 +115,7 @@ h2{
     clear: both;
 }
 main{
-    width: 100%;
+     width: 100%;
     height: auto;
     border: 5px groove;
     margin:  0;
@@ -179,8 +178,7 @@ h3{
          margin-left: -20px;
          height: 300px;
          padding: 40px 20px;
-        
-         clear: both;
+          clear: both;
      }
      #a3-article{
          
