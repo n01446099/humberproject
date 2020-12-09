@@ -7,7 +7,7 @@
 
   header {
     background-color: whitesmoke;
-    background-image: url(/images/headwave.jpg);
+    background-image: url(../images/headwave.jpg);
     background-repeat: no-repeat;
     width: 100%;
     margin: 0;
@@ -276,7 +276,7 @@
 
   header {
     background-color: whitesmoke;
-    background-image: url(/images/headwave1.jpg);
+    background-image: url(../images/headwave1.jpg);
     background-repeat: no-repeat;
     max-width: 414px;
     width: 89%;
@@ -657,7 +657,7 @@
 
   header {
     background-color: whitesmoke;
-    background-image: url(/images/headwave2.jpg);
+    background-image: url(../images/headwave2.jpg);
     background-repeat: no-repeat;
     max-width: 95%;
     margin: auto;
